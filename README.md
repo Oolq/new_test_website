@@ -1,6 +1,6 @@
 # new_test_website
 
-learning git commands
+qlearning git commands
 
 ## this is supposed to be a subheader
 
